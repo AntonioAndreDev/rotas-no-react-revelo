@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zelda: Chronicles of Hyrule",
+    "description": "Embark on an epic quest as the hero Link to rescue Princess Zelda, solve intricate puzzles, and battle against the forces of darkness to save the kingdom of Hyrule.",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "name": "Grand Theft Auto V",
+    "description": "Immerse yourself in the sprawling city of Los Santos, where you can engage in crime, heists, and open-world exploration. Experience a gripping story filled with action and intrigue.",
+    "price": 59.99
+  },
+  {
+    "id": 3,
+    "name": "Super Mario Odyssey",
+    "description": "Join Mario on a globe-trotting adventure to rescue Princess Peach from Bowser's clutches. Explore diverse kingdoms, possess objects with your cap, and discover hidden secrets.",
+    "price": 54.99
+  },
+  {
+    "id": 4,
+    "name": "Cosmic Conquest: Interstellar War",
+    "description": "Lead your space armada in a quest for dominance across the galaxy. Engage in strategic battles, colonize planets, and negotiate treaties in this sci-fi strategy game.",
+    "price": 39.99
+  },
+  {
+    "id": 5,
+    "name": "Realm of Sorcery: Arcane Prophecies",
+    "description": "Unleash your magical abilities in a world of sorcery and danger. Study ancient spells, battle mythical creatures, and uncover the truth behind an ancient prophecy.",
+    "price": 44.99
+  }
+]
