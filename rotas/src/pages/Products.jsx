@@ -1,8 +1,10 @@
+import Header from "../components/Header";
 import products from "../database.json";
 
 export default function Products() {
   return (
     <section>
+      <Header />
       <h2>Todos os produtos</h2>
       <p>Confira todas as nossas ofertas.</p>
       <section className="products">
