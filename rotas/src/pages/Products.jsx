@@ -6,7 +6,7 @@ export default function Products() {
       <h2>Todos os produtos</h2>
       <p>Confira todas as nossas ofertas.</p>
       <section className="products">
-        <h3>Processadores</h3>
+        <h3>Jogos</h3>
         <ul>
           {products.map((product) => (
             <li key={product.id}>
